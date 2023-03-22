@@ -1,0 +1,28 @@
+h1{
+background-color: rgb(174, 179, 106);
+text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    background-color: wheat;
+}
+
+p{
+    font-size: 20px;
+    color: #964B00;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    background-color: white;
+  }
+
+center{
+    margin-left: auto;
+    margin-right: auto;
+}

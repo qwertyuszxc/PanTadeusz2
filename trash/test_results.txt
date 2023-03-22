@@ -1,0 +1,21 @@
+test_p1 (__main__.Test) ... ok
+test_p2 (__main__.Test) ... ok
+test_p3 (__main__.Test) ... ok
+test_p4 (__main__.Test) ... ok
+test_p5 (__main__.Test) ... ok
+test_p6 (__main__.Test) ... ok
+test_p7 (__main__.Test) ... ok
+test_p8 (__main__.Test) ... ERROR
+
+======================================================================
+ERROR: test_p8 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "d:\Python Project\mock3\penis.py", line 46, in test_p8
+    import p8
+ModuleNotFoundError: No module named 'p8'
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.007s
+
+FAILED (errors=1)

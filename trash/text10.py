@@ -1,0 +1,6 @@
+file=open('myself.txt','w')
+file.write('Nikita \n Svityk \n UEK \n Informatyka Stosowana')
+file.close()
+file=open('myself.txt','r')
+print(file.read())
+file.close()
